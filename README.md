@@ -1,10 +1,5 @@
-# Mega-cap Dominance and Systematic Risk
-## IAQF Paper Competition
+## IAQF Paper Competition: Mega-cap Dominance and Systematic Risk
 
-### Authors:
-- Michael Muschitiello
-- Mackenzie Qu
-- Victor Hsu
-- Mike Li
-- Nuohan Luo
-- Colin White
+### February 2025
+### Michael Muschitiello, Mackenzie Qu, Shao-Yu (Victor) Hsu, Mike Li, Nuohan Luo, Colin White
+
