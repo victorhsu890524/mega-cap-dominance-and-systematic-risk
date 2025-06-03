@@ -1,5 +1,5 @@
-## IAQF Paper Competition: Mega-cap Dominance and Systematic Risk
+## IAQF Annual Academic Competition 2025
+### Mega-cap Dominance and Systematic Risk: Implications for Beta and Implied Volatility
 
-### February 2025
-### Michael Muschitiello, Mackenzie Qu, Victor Hsu, Mike Li, Nuohan Luo, Colin White
+#### Author: Michael Muschitiello, Mackenzie Qu, Victor Hsu, Mike Li, Nuohan Luo, Colin White
 
